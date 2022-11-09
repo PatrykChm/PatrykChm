@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patryk Chmielewski</h1>
 <h3 align="center">A passionate frontend developer from Poland!</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and **PHP** 
 
 - 📫 How to reach me **patrykchmielewskipl@gmail.com**
 
