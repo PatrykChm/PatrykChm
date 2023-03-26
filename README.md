@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **patrykchmielewskipl@gmail.com**
 
-- ⚡ Fun fact **I have been learning programming for over 7 months!**
+- ⚡ Fun fact **I have been learning programming for over 16 months!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
